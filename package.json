@@ -1,0 +1,1 @@
+{"name":"jcp-lawn-service","private":true,"version":"1.0.0","type":"module","scripts":{"start":"node preview.mjs","check":"node --check dist/app.js && node --check dist/scene.js"}}
